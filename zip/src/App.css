@@ -357,7 +357,7 @@ label #cancel {
     display: inherit;
     position: relative;
     top: 18px;
-    left: 0px;
+    left: 7px;
     font-weight: bolder;
     font-size: 28px;
   }
@@ -372,7 +372,7 @@ label #cancel {
     width: 80px;
     display: inherit;
     position: relative;
-    right: 123px;
+    right: 104px;
     top: -70px;
     transform: rotate3d(1, 227, 0, 176deg);
   }
